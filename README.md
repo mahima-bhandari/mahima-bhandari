@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahima-bhandari" alt="mahima-bhandari" /></a> </p>
 
-- 🌱 I’m currently learning **Microsoft Azure AI ML**
+- 🌱 I’m currently learning **Microsoft Azure AI ML and Azure Data Factory**
 
 - 💬 Ask me about **Data Science, Machine Learning, Deep Learning and Computer Vision**
 
