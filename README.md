@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahima-bhandari&label=Profile%20views&color=0e75b6&style=flat" alt="mahima-bhandari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahima-bhandari" alt="mahima-bhandari" /></a> </p>
-
 - 🌱 I’m currently learning **Agentic AI and playing with AI Agents**
 
 - 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Natural Language Processing and Computer Vision**
